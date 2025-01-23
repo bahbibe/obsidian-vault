@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "5fbf54f8e21aec80",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7eb6772b3c8dfb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1dc7d7daa51838d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-enum/KUBERNETES/PODS ENUM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PODS ENUM"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "22f5d7306986d9af",
+    "type": "split",
+    "children": [
+      {
+        "id": "d853be3fad9b785a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf4c0a79fddb7ab6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "79c1e6d3e1851dbf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a8cd4303996bbba4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 226.5
+  },
+  "right": {
+    "id": "c7fcf06250c628ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "501676c94cf1c748",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96a7c095511aaec7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01-enum/windows/AD/LDAP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for LDAP"
+            }
+          },
+          {
+            "id": "deb1551353fcaa53",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01-enum/windows/AD/LDAP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from LDAP"
+            }
+          },
+          {
+            "id": "1b9287d754927e2f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "223dac76cd355e5e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01-enum/windows/AD/LDAP.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of LDAP"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a1dc7d7daa51838d",
+  "lastOpenFiles": [
+    "04-docker/PORT scan.md",
+    "01-enum/KUBERNETES/PODS ENUM.md",
+    "01-enum/KUBERNETES",
+    "06-privesc-linux/APPORT-CLI.md",
+    "Pasted image 20250122233849.png",
+    "TODO.md",
+    "05-reverseshell/PHP hosted.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "06-privesc-linux",
+    "01-enum/WEB/CMS.md",
+    "05-reverseshell",
+    "01-enum/WEB/VHOST.md",
+    "01-enum/WEB",
+    "Untitled",
+    "00-nmap/SCAN.md",
+    "04-docker/Untitled",
+    "04-docker",
+    "03-impacket/Owner edit.md",
+    "01-enum/KERBEROS.md",
+    "03-impacket",
+    "02-attacks",
+    "01-enum/AD/LDAP.md",
+    "01-enum/AD/Function Levels.md",
+    "01-enum/AD/SMB.md",
+    "01-enum/AD/BloodHound.md",
+    "01-enum/DNS.md",
+    "01-enum/DNS",
+    "Welcome.md"
+  ]
+}
