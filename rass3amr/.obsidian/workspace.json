@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-enum/KUBERNETES/PODS ENUM.md",
+                "file": "05-reverseshell/SCF.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PODS ENUM"
+              "title": "SCF"
             }
           }
         ]
@@ -164,13 +164,18 @@
   },
   "active": "a1dc7d7daa51838d",
   "lastOpenFiles": [
-    "04-docker/PORT scan.md",
-    "01-enum/KUBERNETES/PODS ENUM.md",
-    "01-enum/KUBERNETES",
-    "06-privesc-linux/APPORT-CLI.md",
-    "Pasted image 20250122233849.png",
     "TODO.md",
+    "05-reverseshell/SCF.md",
+    "Untitled",
+    "06-privesc-linux/PATH Hijacking.md",
     "05-reverseshell/PHP hosted.md",
+    "Pasted image 20250122233849.png",
+    "06-privesc-linux/APPORT-CLI.md",
+    "04-docker/PORT scan.md",
+    "03-impacket/Owner edit.md",
+    "01-enum/KUBERNETES/PODS ENUM.md",
+    "01-enum/KUBERNETES/Evil POD.md",
+    "01-enum/KUBERNETES",
     "Untitled.md",
     "Untitled 1.md",
     "06-privesc-linux",
@@ -178,11 +183,9 @@
     "05-reverseshell",
     "01-enum/WEB/VHOST.md",
     "01-enum/WEB",
-    "Untitled",
     "00-nmap/SCAN.md",
     "04-docker/Untitled",
     "04-docker",
-    "03-impacket/Owner edit.md",
     "01-enum/KERBEROS.md",
     "03-impacket",
     "02-attacks",
