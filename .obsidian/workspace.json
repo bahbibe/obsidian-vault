@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "1c795e94af2af722",
+    "type": "split",
+    "children": [
+      {
+        "id": "624aa6524cd1afe0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13cf0528ede8dd35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rass3amr/TODO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc9798a463d4fbb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rass3amr/07-web-servers/ONE LINER.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c2f45466c4828ebd",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcc2ea7d947fb6fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc487ec93957c65a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f4f24465cad67f4a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e3c2e27916be15be",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4edbbe2b392d07ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "2eb0cf36b6b1350d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e38aa0209813b228",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "rass3amr/07-web-servers/ONE LINER.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9335648c7145c538",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "rass3amr/07-web-servers/ONE LINER.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b92c8f3a8d1a0c8b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "521ec30a7290bc3a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "rass3amr/07-web-servers/ONE LINER.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fc9798a463d4fbb5",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "rass3amr/07-web-servers/ONE LINER.md",
+    "rass3amr/07-web-servers",
+    "rass3amr/01-enum/LINUX-GENERAL.md",
+    "rass3amr/01-enum/KUBERNETES/PODS ENUM.md",
+    "rass3amr/01-enum/AD/Function Levels.md",
+    "rass3amr/01-enum/AD/LDAP.md",
+    "rass3amr/TODO.md"
+  ]
+}
